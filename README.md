@@ -4,11 +4,11 @@ A collection of simple, single purpose programs to simulate physical systems and
 
 - Requires: python, matplotlib
 
-####Usage:
+#### Usage:
 Matplotlib must be installed to generate plots. Install it with 'pip install matplotlib'.
 Then simply type 'python3 <filename>.py' or run scripts from your preferred IDE or text editor.
 
-##List of program groups:
+## List of program groups:
 
 1. bicycle
   - bicycle.py: Calculates velocity vs. time with and without simplified air resistance, given a constant amount of work.
