@@ -12,11 +12,11 @@ Then simply type 'python3 <filename>.py' or run scripts from your preferred IDE 
 
 1. bicycle
   - bicycle.py: Calculates velocity vs. time with and without simplified air resistance, given a constant amount of work.
-
+<center><img src="1_bicycle/bicycle.png" alt="bicycle.py image"></center>
 2. baseball
   - baseball-trajectory-wind.py: calculates the arc of a pop fly under different wind conditions. Simplified wind.
   - baseball-curveball.py: calculates drop and curve of a curveball.
-  
+  <center><img src="2_baseball/baseball-trajectory-wind.png" alt="baseball-trajectory-wind image"><img src="2_baseball/baseball-curveball.png" alt="baseball-curveball image"></center>>
 3. simple-pendulum
   - simple-pendulum.py: simulates pendulum motion with zero drag and wind resistance.
   - driven-simple-pendulum.py: simulates three pendulums with drag and different driving forces.
